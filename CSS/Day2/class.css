@@ -1,0 +1,14 @@
+.col-red{
+    color:red;
+    width:200px;
+    height:200px;
+}
+.bgcol-black{
+    background-color: black;
+}
+.col-green{
+    color:green;
+}
+.bgcol-blue{
+    background-color: blue;
+}

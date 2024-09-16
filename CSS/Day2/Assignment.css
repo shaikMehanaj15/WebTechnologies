@@ -1,0 +1,74 @@
+/* h1{
+    color:red;
+}
+p{
+    color: blueviolet;
+}
+span{
+    color:darkmagenta;
+}
+#silver
+{
+    color: silver;
+    background-color: black;
+}
+#heading
+{
+    color:antiquewhite;
+    background-color: brown;
+}
+#blue
+{
+    color:blue;
+    background-color: bisque;
+} */
+
+
+
+/* .col-red{
+    color: red;
+    width:120px;
+    height:222px;
+}
+.bgcolor-blue{
+    background-color: blue;
+}
+.col-blue{
+    color: blue;
+    width:120px;
+    height:200px;
+}
+.bgcol-red{
+    background-color: red;
+} */
+
+#container{
+    width:80%;
+    height:80%;
+}
+
+.col-royalblue
+{
+    color: royalblue;
+    
+}
+.col-orangered{
+    color: orangered;
+
+}
+#orange
+{
+    color:orange;
+}
+#green{
+    color:green;
+}
+
+h1{
+    float:left;
+    font-size:150px;
+}
+marquee{
+    width:100px;
+    float:left;
+}

@@ -1,0 +1,25 @@
+#container{
+    width:400px;
+    height:400px;
+    background-image: url(../../Asset/image/pexels-joonas-kaariainen-67364-239107.jpg);
+   /* border-radius:80px/150px;
+    border-radius:80px 180px/50px 120px;*/
+    border-radius:38% 62% 48% 52%/31% 39% 61% 69%;
+    background-size: 100% 100%;
+    box-shadow: 5px 5px 10px red,
+    -5px -5px 10px lawngreen,
+    -5px 5px 10px royalblue,
+    5px -5px 10px yellow,
+    inset 10px 10px 10px white,
+    inset -10px -10px 10px aqua;
+
+}
+input{
+    border:2px solid black;
+    outline: none;
+    background-color: lightcyan;
+    width:300px;
+    height: 30px;
+    border-radius: 5px;
+    box-shadow:2px 2px 2px gray,inset -5px -5px 5px rgb(103,214,214);
+}

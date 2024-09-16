@@ -1,0 +1,58 @@
+#solid{
+    border-color:lightseagreen ;
+    border-width:10px;
+    border-style: solid;
+
+}
+#dashed{
+    border-color: blueviolet;
+    border-width:10px;
+    border-style:dashed;
+}
+#dotted{
+    border-color:chartreuse;
+    border-width:10px;
+    border-style:dotted;
+}
+#double{
+    border-color:crimson;
+    border-width:10px;
+    border-style:double;
+}
+#groove{
+    border-color:skyblue;
+    width:300px;
+    border-width:20px;
+    border-style:groove;
+}
+#ridge{
+    border-color:skyblue;
+    width:300px;
+    border-width:20px;
+    border-style:ridge
+}
+#inset{
+    border-color:skyblue;
+    width:300px;
+    border-width:20px;
+    border-style:inset;
+}
+#outset{
+    border-color:skyblue;
+    width:300px;
+    border-width:20px;
+     border-style:outset;
+}
+input{
+    background-color: hotpink;
+    border-style:none;
+}
+#sh{
+    border:dashed grey 10px;
+}
+#border{
+    border-top:double 5px slategray;
+    border-bottom: 10px lawngreen dashed;
+    border-left:groove purple 20px;
+    border-right:30px orangered inset;
+}

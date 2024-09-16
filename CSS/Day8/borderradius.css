@@ -1,0 +1,9 @@
+#container{
+    width:400px;
+    height:400px;
+    background-image: url(../../Asset/image/pexels-joonas-kaariainen-67364-239107.jpg);
+   /* border-radius:80px/150px;
+    border-radius:80px 180px/50px 120px;*/
+    border-radius:38% 62% 48% 52%/31% 39% 61% 69%;
+    background-size: 100% 100%;
+}

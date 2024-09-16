@@ -1,0 +1,51 @@
+#GrandFather{
+    width:100%;
+    height:600px;
+    background-color: seagreen;
+}
+#Father,#Babai,#Cou1,#Cou2{
+    width:50%;
+    height: 100%;
+    float:left;
+}
+#Father{
+    background-color: green;
+}
+#Babai{
+    background-color: yellow;
+}
+#Cou1{
+    background-color: aquamarine;
+}
+#Cou2{
+    background-color: steelblue;
+}
+#Sib1,#Sib2,#Me{
+    width:33.33%;
+    height: 100%;
+    float:left;
+}
+#Sib1{
+    background-color: salmon;
+}
+#Me{
+    background-color: blueviolet;
+}
+#Sib2{
+    background-color: peachpuff;
+}
+/*Child Selector
+#Babai>#Cou2{
+    background-color: darkred;
+}*/
+/*Decendent Selector
+#Babai #Cou1{
+    background-color: lawngreen;
+}*/
+/*Adjacent Sibiling Selector
+#Me+#Sib2{
+    background-color: red;
+}*/
+#Sib1~#Sib2{
+    background-color:lawngreen;
+}
